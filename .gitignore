@@ -1,0 +1,28 @@
+# Data and caches
+data/
+cache/
+catboost_info/
+*.csv
+*.parquet
+*.pkl
+*.cbm
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+.~lock.*
+
+# OS
+.DS_Store
+
+# Plots / artifacts
+*.png
